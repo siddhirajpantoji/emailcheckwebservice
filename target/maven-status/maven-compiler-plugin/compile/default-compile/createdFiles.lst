@@ -1,0 +1,4 @@
+com\travlex\shirkebhai\emailregex\BaseRequest.class
+com\travlex\shirkebhai\emailregex\BaseResponse.class
+com\travlex\shirkebhai\emailregex\EmailValidatorController.class
+com\travlex\shirkebhai\emailregex\EmailregexApplication.class
